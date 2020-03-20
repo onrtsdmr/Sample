@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UberExample</string>
+
+    <!-- Status -->
+    <string name="label_customer">Müşteri</string>
+    <string name="label_employee">Çalışan</string>
+
+    <!-- Login -->
+    <string name="app_login">Giriş</string>
+    <string name="label_login">Giriş</string>
+    <string name="label_username">Ad Soyad</string>
+    <string name="label_phone">Telefon Numarası</string>
+    <string name="label_pass">Şifre</string>
+
+    <!-- Register -->
+    <string name="app_register">Kayıt Ol</string>
+    <string name="label_register">Kayıt Ol</string>
+
+    <!-- Bottom nav -->
+    <string name="label_main">Home</string>
+    <string name="label_profile">Profil</string>
+    <string name="label_settings">Ayarlar</string>
+
+    <!-- Fragments -->
+    <string name="label_home_fragment">Home Fragment</string>
+    <string name="label_profile_fragment">Profile Fragment</string>
+    <string name="label_settings_fragment">Settings Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
